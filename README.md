@@ -1,2 +1,2 @@
-# Latent Space Roadmap V.2
-Website (https://visual-action-planning.github.io/lsr-V2/) for paper TODO
+# Latent Space Roadmap Extended
+Website (https://visual-action-planning.github.io/lsr-V2/) for paper Enabling Visual Action Planning for Object Manipulation through Latent Space Roadmap - under review
